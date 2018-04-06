@@ -1,6 +1,7 @@
 # maintainable-web-haskell
 ## running
 From the project directory
+
     stack build
 
     stack exec maintainable-web-haskell-exe
