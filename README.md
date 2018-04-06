@@ -1,4 +1,4 @@
-# maintainable-web-haskell
+# haskell-hello-web
 ## running
 From the project directory
 
